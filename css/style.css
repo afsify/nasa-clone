@@ -267,7 +267,7 @@ nav a:hover {
 }
 
 .grid-up3 {
-  background-image: url("/images/middle-right.jpg");
+  background-image: url(/images/middle-right.jpg);
 }
 
 .grid-down1 {
