@@ -142,7 +142,7 @@ nav a:hover {
 
 .pic-left {
   background-color: black;
-  background-image: url(top-left.jpg);
+  background-image: url("images/top-left.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -174,7 +174,7 @@ nav a:hover {
 }
 
 .pic-right1a {
-  background-image: url('top-right1.jpg');
+  background-image: url("images/top-right1.jpg");
 }
 
 .pic-right1b {
@@ -183,7 +183,7 @@ nav a:hover {
 }
 
 .pic-right2 {
-  background-image: url('top-right2.jpg');
+  background-image: url("images/top-right2.jpg");
 }
 
 .pic-right1b a {
@@ -259,31 +259,31 @@ nav a:hover {
 }
 
 .grid-up1 {
-  background-image: url('middle-left.jpg');
+  background-image: url("images/middle-left.jpg");
 }
 
 .grid-up2 {
-  background-image: url('middle-center.png');
+  background-image: url("images/middle-center.png");
 }
 
 .grid-up3 {
-  background-image: url('middle-right.jpg');
+  background-image: url("images/middle-right.jpg");
 }
 
 .grid-down1 {
-  background-image: url('bottom-one.jpg');
+  background-image: url("images/bottom-one.jpg");
 }
 
 .grid-down2 {
-  background-image: url('bottom-two.jpg');
+  background-image: url("images/bottom-two.jpg");
 }
 
 .grid-down3 {
-  background-image: url('bottom-three.jpeg');
+  background-image: url("images/bottom-three.jpeg");
 }
 
 .grid-down4 {
-  background-image: url('bottom-four.jpg');
+  background-image: url("images/bottom-four.jpg");
 }
 
 /* FOOTER SECTION */
